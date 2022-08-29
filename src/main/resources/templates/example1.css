@@ -1,0 +1,52 @@
+
+*{
+	
+	color:darkgreen  !important
+}
+
+
+
+
+h1{
+	color: blue;
+}
+
+p
+{
+	color:rbg(0,200,0);
+	background:lightyellow;
+}
+
+h2{
+	color:#AFFF33;
+}
+body{
+	
+	background-color : url(https://www.shutterstock.com/search/beach-sunset);
+}
+
+DIV{
+	
+	BACKGROUND:red;
+	border:orang;
+	border-width:thinck;
+	border-style:double;
+}
+
+span{
+	
+	color:#AFFF33;
+}
+
+.sppar{
+	
+	background:gray;
+}
+p.sppar{
+color:black;	
+}
+
+#secondid{
+	color:darkgreen;
+	text-decoration:underline;
+}
